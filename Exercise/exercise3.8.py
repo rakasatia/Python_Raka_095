@@ -1,21 +1,21 @@
-locations = ["Jepang", "Swiss", "Islandia", "Kanada", "Skotlandia"]
+tempat = ["Seattle", "New York", "Edinburgh", "Oslo", "Hawaii"]
 
-print(locations)
+print(tempat)
 
-print(sorted(locations))
-print(locations)
+print(sorted(tempat))
+print(tempat)
 
-print(sorted(locations, reverse=True))
-print(locations)
+print(sorted(tempat, reverse=True))
+print(tempat)
 
-locations.reverse()
-print(locations)
+tempat.reverse()
+print(tempat)
 
-locations.reverse()
-print(locations)
+tempat.reverse()
+print(tempat)
 
-locations.sort()
-print(locations)
+tempat.sort()
+print(tempat)
 
-locations.sort(reverse=True)
-print(locations)
+tempat.sort(reverse=True)
+print(tempat)

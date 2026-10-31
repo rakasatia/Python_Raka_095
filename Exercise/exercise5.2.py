@@ -1,13 +1,39 @@
-favorite_numbers = {
-    'Raka': 10,
-    'Revano': 3,
-    'Sergie': 21,
-    'Ronaldo': 7,
-    'Oliver': 14,
-}
 
-print(f"Angka favorit Raka adalah {favorite_numbers['Raka']}.")
-print(f"Angka favorit Revano adalah {favorite_numbers['Revano']}.")
-print(f"Angka favorit Sergie adalah {favorite_numbers['Sergie']}.")
-print(f"Angka favorit Ronaldo adalah {favorite_numbers['Ronaldo']}.")
-print(f"Angka favorit Oliver adalah {favorite_numbers['Oliver']}.")
+city = 'solo'
+print(city == 'solo')        
+print(city == 'jakarta')     
+print(city != 'jakarta')     
+print(city != 'solo')        
+
+# Metode lower()
+language = 'Python'
+print(language.lower() == 'python')   
+print(language.lower() == 'Python')   
+
+# Tes numerik
+number = 10
+print(number == 10)          
+print(number == 5)           
+print(number != 5)           
+print(number != 10)          
+print(number > 5)            
+print(number > 10)           
+print(number < 20)           
+print(number < 10)           
+print(number >= 10)          
+print(number >= 11)          
+print(number <= 10)          
+print(number <= 9)           
+
+# Kata kunci and dan or
+print(number > 5 and number < 20)    
+print(number > 5 and number < 8)     
+print(number < 5 or number > 8)      
+print(number < 5 or number > 20)     
+
+# Item ada di dalam list atau tidak
+fruits = ['apel', 'mangga', 'jeruk']
+print('apel' in fruits)              
+print('durian' in fruits)            
+print('durian' not in fruits)        
+print('apel' not in fruits)          
