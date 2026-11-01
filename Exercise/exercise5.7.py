@@ -1,16 +1,16 @@
-favorite_fruits = ['mangga', 'durian', 'jeruk']
+buah_favorit= ['mangga', 'durian', 'jeruk']
 
-if 'mangga' in favorite_fruits:
+if 'mangga' in buah_favorit:
     print("Kamu benar-benar suka mangga!")
 
-if 'durian' in favorite_fruits:
+if 'durian' in buah_favorit:
     print("Kamu benar-benar suka durian!")
 
-if 'jeruk' in favorite_fruits:
+if 'jeruk' in buah_favorit:
     print("Kamu benar-benar suka jeruk!")
 
-if 'apel' in favorite_fruits:
+if 'apel' in buah_favorit:
     print("Kamu benar-benar suka apel!")
 
-if 'pisang' in favorite_fruits:
+if 'pisang' in buah_favorit:
     print("Kamu benar-benar suka pisang!")

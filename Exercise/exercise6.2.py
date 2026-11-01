@@ -1,4 +1,4 @@
-favorite_numbers = {
+angka_favorit = {
     'Raka': 10,
     'Revano': 3,
     'Sergie': 21,
@@ -6,8 +6,8 @@ favorite_numbers = {
     'Oliver': 14,
 }
 
-print(f"Angka favorit Raka adalah {favorite_numbers['Raka']}.")
-print(f"Angka favorit Revano adalah {favorite_numbers['Revano']}.")
-print(f"Angka favorit Sergie adalah {favorite_numbers['Sergie']}.")
-print(f"Angka favorit Ronaldo adalah {favorite_numbers['Ronaldo']}.")
-print(f"Angka favorit Oliver adalah {favorite_numbers['Oliver']}.")
+print(f"Angka favorit Raka adalah {angka_favorit['Raka']}.")
+print(f"Angka favorit Revano adalah {angka_favorit['Revano']}.")
+print(f"Angka favorit Sergie adalah {angka_favorit['Sergie']}.")
+print(f"Angka favorit Ronaldo adalah {angka_favorit['Ronaldo']}.")
+print(f"Angka favorit Oliver adalah {angka_favorit['Oliver']}.")

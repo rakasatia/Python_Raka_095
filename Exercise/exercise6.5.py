@@ -1,16 +1,16 @@
-rivers = {
+nama_sungai = {
     'nil': 'mesir',
     'amazon': 'brasil',
     'bengawan solo': 'indonesia',
 }
 
-for river, country in rivers.items():
-    print(f"Sungai {river.title()} mengalir melalui {country.title()}.")
+for sungai, negara in nama_sungai.items():
+    print(f"Sungai {sungai.title()} mengalir melalui {negara.title()}.")
 
 print("\nSungai yang ada di dictionary:")
-for river in rivers.keys():
-    print(river.title())
+for sungai in nama_sungai.keys():
+    print(sungai.title())
 
 print("\nNegara yang ada di dictionary:")
-for country in rivers.values():
-    print(country.title())
+for negara in nama_sungai.values():
+    print(negara.title())

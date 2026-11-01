@@ -1,13 +1,13 @@
-person_1 = {'first_name': 'Raka', 'last_name': 'Pratama',
+orang_1 = {'first_name': 'Raka', 'last_name': 'Pratama',
             'age': 25, 'city': 'Semarang'}
-person_2 = {'first_name': 'Bambang', 'last_name': 'Sugianto',
+orang_2 = {'first_name': 'Bambang', 'last_name': 'Sugianto',
             'age': 22, 'city': 'Bandung'}
-person_3 = {'first_name': 'Slamet', 'last_name': 'Riyanto',
+orang_3 = {'first_name': 'Slamet', 'last_name': 'Riyanto',
             'age': 30, 'city': 'Surabaya'}
 
-people = [person_1, person_2, person_3]
+people = [orang_1, orang_2, orang_3]
 
-for person in people:
-    for key, value in person.items():
+for orang in people:
+    for key, value in orang.items():
         print(f"{key}: {value}")
     print()

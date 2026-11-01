@@ -1,9 +1,9 @@
-pet_1 = {'hewan': 'kucing', 'pemilik': 'Firman'}
-pet_2 = {'hewan': 'anjing', 'pemilik': 'Slamet'}
-pet_3 = {'hewan': 'kelinci', 'pemilik': 'Daryono'}
-pet_4 = {'hewan': 'burung', 'pemilik': 'Jokowi'}
+peliharaan_1 = {'hewan': 'kucing', 'pemilik': 'Firman'}
+peliharaan_2 = {'hewan': 'anjing', 'pemilik': 'Slamet'}
+peliharaan_3 = {'hewan': 'kelinci', 'pemilik': 'Daryono'}
+peliharaan_4 = {'hewan': 'burung', 'pemilik': 'Jokowi'}
 
-pets = [pet_1, pet_2, pet_3, pet_4]
+hewan_peliharaan = [peliharaan_1, peliharaan_2, peliharaan_3, peliharaan_4]
 
-for pet in pets:
-    print(f"{pet['pemilik']} memiliki seekor {pet['hewan']}.")
+for peliharaan in hewan_peliharaan:
+    print(f"{peliharaan['pemilik']} memiliki seekor {peliharaan['hewan']}.")
