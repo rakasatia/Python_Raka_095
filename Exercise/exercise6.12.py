@@ -2,7 +2,7 @@ kota = {
     'tokyo': {
         'negara': 'jepang',
         'bahasa': 'Jepang',
-        'population': 14000000,
+        'populasi': 14000000,
         'fakta': 'dulu bernama Edo sebelum tahun 1868.',
     },
     'paris': {
