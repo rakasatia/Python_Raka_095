@@ -1,5 +1,5 @@
-numbers = list(range(1, 1_000_001))
+angka = list(range(1, 1_000_001))
 
-print(min(numbers))
-print(max(numbers))
-print(sum(numbers))
+print(min(angka))
+print(max(angka))
+print(sum(angka))

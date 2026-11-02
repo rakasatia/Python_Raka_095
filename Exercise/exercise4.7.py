@@ -1,4 +1,4 @@
-threes = list(range(3, 31, 3))
+pohon = list(range(3, 31, 3))
 
-for number in threes:
+for number in pohon:
     print(number)

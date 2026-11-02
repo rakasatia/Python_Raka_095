@@ -1,39 +1,39 @@
 
-city = 'solo'
-print(city == 'solo')        
-print(city == 'jakarta')     
-print(city != 'jakarta')     
-print(city != 'solo')        
+kota = 'solo'
+print(kota == 'solo')        
+print(kota == 'jakarta')     
+print(kota != 'jakarta')     
+print(kota != 'solo')        
 
 # Metode lower()
-language = 'Python'
-print(language.lower() == 'python')   
-print(language.lower() == 'Python')   
+bahasa = 'Python'
+print(bahasa.lower() == 'python')   
+print(bahasa.lower() == 'Python')   
 
 # Tes numerik
-number = 10
-print(number == 10)          
-print(number == 5)           
-print(number != 5)           
-print(number != 10)          
-print(number > 5)            
-print(number > 10)           
-print(number < 20)           
-print(number < 10)           
-print(number >= 10)          
-print(number >= 11)          
-print(number <= 10)          
-print(number <= 9)           
+angka = 10
+print(angka == 10)          
+print(angka == 5)           
+print(angka != 5)           
+print(angka != 10)          
+print(angka > 5)            
+print(angka > 10)           
+print(angka < 20)           
+print(angka < 10)           
+print(angka >= 10)          
+print(angka >= 11)          
+print(angka <= 10)          
+print(angka <= 9)           
 
 # Kata kunci and dan or
-print(number > 5 and number < 20)    
-print(number > 5 and number < 8)     
-print(number < 5 or number > 8)      
-print(number < 5 or number > 20)     
+print(angka > 5 and angka < 20)    
+print(angka > 5 and angka < 8)     
+print(angka < 5 or angka > 8)      
+print(angka < 5 or angka > 20)     
 
 # Item ada di dalam list atau tidak
-fruits = ['apel', 'mangga', 'jeruk']
-print('apel' in fruits)              
-print('durian' in fruits)            
-print('durian' not in fruits)        
-print('apel' not in fruits)          
+buah = ['apel', 'mangga', 'jeruk']
+print('apel' in buah)              
+print('durian' in buah)            
+print('durian' not in buah)        
+print('apel' not in buah)          

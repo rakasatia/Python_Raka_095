@@ -1,8 +1,8 @@
-alien_color = 'yellow'
+warna_alien = 'yellow'
 
-if alien_color == 'green':
+if warna_alien == 'green':
     print("Pemain mendapat 5 poin!")
-elif alien_color == 'yellow':
+elif warna_alien == 'yellow':
     print("Pemain mendapat 10 poin!")
 else:
     print("Pemain mendapat 15 poin!")

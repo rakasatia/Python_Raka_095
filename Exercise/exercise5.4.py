@@ -1,4 +1,4 @@
-alien_color = 'green'
+warna_alien = 'green'
 
-if alien_color == 'green':
+if w == 'green':
     print("Pemain baru saja mendapat 5 poin!")

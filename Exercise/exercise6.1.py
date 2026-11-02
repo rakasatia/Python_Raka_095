@@ -1,12 +1,12 @@
-person = {
-    'first_name': 'Raka',
-    'last_name': 'Pratama',
-    'age': 18,
-    'city': 'Kendal',
+Data_Orang = {
+    'nama_awalan': 'Raka',
+    'nama_akhiran': 'Pratama',
+    'umur': 18,
+    'kota': 'Kendal',
 }
 
-print(person['first_name'])
-print(person['last_name'])
-print(person['age'])
-print(person['city'])
+print(Data_Orang['nama_awalan'])
+print(Data_Orang['nama_akhiran'])
+print(Data_Orang['umur'])
+print(Data_Orang['kota'])
 

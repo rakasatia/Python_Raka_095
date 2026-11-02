@@ -1,4 +1,4 @@
-favorite_languages = {
+bahasa_favorit = {
     'Raka': 'python',
     'Bambang': 'c',
     'Jamal': 'rust',
@@ -8,7 +8,7 @@ favorite_languages = {
 list_orang = ['Raka', 'Bambang', 'Jamal', 'Suwandi', 'Revano']
 
 for orang in list_orang:
-    if orang in favorite_languages:
+    if orang in bahasa_favorit:
         print(f"Terima kasih {orang.title()} sudah mengisi polling!")
     else:
         print(f"{orang.title()}, maukah kamu mengisi polling bahasa favorit?")

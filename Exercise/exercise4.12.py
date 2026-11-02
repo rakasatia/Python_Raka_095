@@ -1,13 +1,13 @@
-my_foods = ["pizza", "falafel", "carrot cake"]
-friend_foods = my_foods[:]
+makanan_saya = ["pizza", "falafel", "carrot cake"]
+makanan_teman = makanan_saya[:]
 
-my_foods.append("cannoli")
-friend_foods.append("ice cream")
+makanan_saya.append("cannoli")
+makanan_teman.append("ice cream")
 
 print("Makanan favoritku adalah:")
-for food in my_foods:
+for food in makanan_saya:
     print(food)
 
 print("\nMakanan favorit temanku adalah:")
-for food in friend_foods:
+for food in makanan_teman:
     print(food)

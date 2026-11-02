@@ -1,4 +1,4 @@
-odd_numbers = list(range(1, 21, 2))
+angka_ganjil = list(range(1, 21, 2))
 
-for number in odd_numbers:
-    print(number)
+for angka in angka_ganjil:
+    print(angka)
