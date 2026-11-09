@@ -1,0 +1,5 @@
+Dalam Python kamu bisa menyimpan data di dalam variabel.
+Dalam Python kamu bisa membuat daftar dengan list dan mengulanginya dengan loop.
+Dalam Python kamu bisa membuat fungsi agar kode bisa dipakai berulang kali.
+Dalam Python kamu bisa membuat kelas untuk memodelkan benda di dunia nyata.
+Dalam Python kamu bisa membaca dan menulis file.
